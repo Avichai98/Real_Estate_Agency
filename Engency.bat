@@ -1,0 +1,1 @@
+java -jar --module-path "C:\AppData\javaFx\javafx-sdk-18.0.2\lib" --add-modules javafx.controls,javafx.fxml Main.jar
